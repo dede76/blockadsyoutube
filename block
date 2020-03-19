@@ -1,0 +1,4 @@
+^.+(youtube.com/api/stats).*$
+^.+(doubleclick.net).*$
+^.+(youtube.com/csi_204).*$
+^.+(googlesyndication.com).*$
