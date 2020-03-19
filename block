@@ -2,3 +2,7 @@
 ^.+(doubleclick.net).*$
 ^.+(youtube.com/csi_204).*$
 ^.+(googlesyndication.com).*$
+^.+(google.com/pagead).*$
+^.+(youtube.com/ptracking).*$
+^.+(youtube.com/get_midroll_info).*$
+^.+(pagead2.googlesyndication.com).*$
